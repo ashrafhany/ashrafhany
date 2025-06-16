@@ -37,3 +37,13 @@ I'm a Backend Developer specializing in Laravel and PHP. I build RESTful APIs, a
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafhany&layout=compact&theme=github_dark" />
 </p>
+
+---
+### 📬 Get in Touch
+
+📧 Email: [ashrafhany283@gmail.com](mailto:el.sid.kamal.1999@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/ashraf hany](https://linkedin.com/in/elsayed85)  
+
+---
+
+*Let’s build something amazing — open to freelance, consulting, or full-time opportunities.*
