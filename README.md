@@ -22,6 +22,7 @@ I'm a Backend Developer specializing in Laravel and PHP. I build RESTful APIs, a
 
 ### 🧰 Languages and Tools
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" /> 
   <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
