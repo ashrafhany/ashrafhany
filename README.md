@@ -47,6 +47,7 @@ I'm a Backend Developer specializing in Laravel and PHP. I build RESTful APIs, a
 
 📧 Email: [ashrafhany283@gmail.com](mailto:el.sid.kamal.1999@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/ashraf hany](https://linkedin.com/in/elsayed85)
+
 📱 Phone: +20 1099259725
 
 ---
