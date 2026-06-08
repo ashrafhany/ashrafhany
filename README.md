@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="/ASHRAF_HANY_Resume.pdf" download>
+  <a href="/ASHRAF_HANY_FlowCV_2026-05-31.pdf" download>
     <img src="https://img.shields.io/badge/📄 Download%20CV-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
