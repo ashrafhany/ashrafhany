@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Who I Am
 
-Backend Developer with **3+ years of experience** building scalable APIs and production systems using **Laravel & PHP**. I've shipped real products — from football scouting platforms to e-commerce and logistics apps — across web and mobile.
+Backend Developer with **3+ years of experience** building scalable APIs and production systems using **Laravel & PHP**. I've shipped real products — from football scouting platforms to e-commerce applications.
 
 Currently working at **Smart Vision** building and maintaining backend systems for multiple live projects. Open to freelance, consulting, or full-time opportunities.
 
@@ -54,8 +54,8 @@ Currently working at **Smart Vision** building and maintaining backend systems f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrafhany&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafhany&layout=compact&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-stats?username=ashrafhany&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashrafhany&theme=github_dark" alt="Top Languages"/>
 </p>
 
 ---
