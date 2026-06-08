@@ -54,11 +54,11 @@ Currently working at **Smart Vision** building and maintaining backend systems f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrafhany&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashrafhany&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafhany&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashrafhany&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
