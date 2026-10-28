@@ -2,13 +2,17 @@
 <h3 align="center">Backend Laravel Developer | PHP | RESTful APIs | MySQL | Vue.js</h3>
 
 <p align="center">
+  <a href="https://ashrafhany.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ashrafhany.vercel.app-E63B2E?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="mailto:ashrafhany283@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ashraf-hany"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ashrafhany99"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ashrafhany"><img src="https://komarev.com/ghpvc/?username=ashrafhany&label=Profile+Views&color=0e75b6&style=flat"/></a>
 </p>
 
 <p align="center">
-  <a href="/ASHRAF_HANY_FlowCV_2026-05-31.pdf" download>
+  <a href="https://ashrafhany.vercel.app">
+    <img src="https://img.shields.io/badge/🌐 View%20Portfolio-E63B2E?style=for-the-badge&logoColor=white" alt="View Portfolio">
+  </a>
+  <a href="https://ashrafhany.vercel.app/assets/Ashraf-Hany-CV.pdf">
     <img src="https://img.shields.io/badge/📄 Download%20CV-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
@@ -20,6 +24,8 @@
 Backend Developer with **3+ years of experience** building scalable APIs and production systems using **Laravel & PHP**. I've shipped real products — from football scouting platforms to e-commerce platforms.
 
 Currently working at **Smart Vision** building and maintaining backend systems for multiple live projects. Open to freelance, consulting, or full-time opportunities.
+
+👉 Full portfolio, all 11 projects and case studies: **[ashrafhany.vercel.app](https://ashrafhany.vercel.app)**
 
 ---
 
@@ -43,11 +49,13 @@ Currently working at **Smart Vision** building and maintaining backend systems f
 
 | Project | Description |
 |--------|-------------|
-| [**HAT-TRICK**](https://hat-trick.app) | Football social & scouting platform — multi-role auth, posts, messaging, recruitment workflows |
+| [**HAT-TRICK**](https://www.all-hattrick.com/index) | Football social & scouting platform — multi-role auth, posts, messaging, recruitment workflows · [Case study →](https://ashrafhany.vercel.app/case-studies/hat-trick.html) |
 | [**Smart Vision**](https://smartvision4p.com) | Company portfolio with scalable CMS backend & API integrations |
 | [**FTtech**](https://fttechpro.com) | Mobile app backend — secure auth & data exchange APIs |
 | [**Matlabk**](https://matlabk.com.sa) | Web & mobile platform — scalable Laravel APIs serving real users |
 | [**Class Cars**](https://classcars.sa) | Car listings backend — brands, models, cash/installment plan management |
+
+➕ More projects on the [portfolio](https://ashrafhany.vercel.app/#work).
 
 ---
 
@@ -65,8 +73,9 @@ Currently working at **Smart Vision** building and maintaining backend systems f
 
 ### 📬 Get in Touch
 
+🌐 [ashrafhany.vercel.app](https://ashrafhany.vercel.app)
 📧 [ashrafhany283@gmail.com](mailto:ashrafhany283@gmail.com)
-🔗 [linkedin.com/in/ashraf-hany](https://linkedin.com/in/ashraf-hany)
+🔗 [linkedin.com/in/ashrafhany99](https://www.linkedin.com/in/ashrafhany99)
 📱 +20 1099259725
 
 ---
